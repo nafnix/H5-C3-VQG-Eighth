@@ -7,3 +7,4 @@
 - [第三章 基本HTML结构](https://github.com/nafnix/H5-C3-VQG-Eighth/blob/master/cp3/%E5%9F%BA%E6%9C%ACHTML%E7%BB%93%E6%9E%84.md)
 - [第四章 文本](https://github.com/nafnix/H5-C3-VQG-Eighth/blob/master/cp4/%E6%96%87%E6%9C%AC.md)
 - [第五章 图像](https://github.com/nafnix/H5-C3-VQG-Eighth/blob/master/cp5/%E5%9B%BE%E5%83%8F.md)
+- [第六章 链接](https://github.com/nafnix/H5-C3-VQG-Eighth/blob/master/cp6/%E9%93%BE%E6%8E%A5.md)
