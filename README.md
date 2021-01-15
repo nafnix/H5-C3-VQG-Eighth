@@ -8,5 +8,5 @@
 - [第四章 文本](https://github.com/nafnix/H5-C3-VQG-Eighth/blob/master/cp4/%E6%96%87%E6%9C%AC.md)
 - [第五章 图像](https://github.com/nafnix/H5-C3-VQG-Eighth/blob/master/cp5/%E5%9B%BE%E5%83%8F.md)
 - [第六章 链接](https://github.com/nafnix/H5-C3-VQG-Eighth/blob/master/cp6/%E9%93%BE%E6%8E%A5.md)
-- [第七章 CSS构造块 笔记](https://github.com/nafnix/H5-C3-VQG-Eighth/blob/master/cp7/CSS%E6%9E%84%E9%80%A0%E5%9D%97.md)
-
+- [第七章 CSS构造块](https://github.com/nafnix/H5-C3-VQG-Eighth/blob/master/cp7/CSS%E6%9E%84%E9%80%A0%E5%9D%97.md)
+- [第八章 操作样式表](https://github.com/nafnix/H5-C3-VQG-Eighth/blob/master/cp8/%E6%93%8D%E4%BD%9C%E6%A0%B7%E5%BC%8F%E8%A1%A8.md)
