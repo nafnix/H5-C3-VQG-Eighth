@@ -11,3 +11,4 @@
 7. [第七章 CSS构造块](https://github.com/nafnix/H5-C3-VQG-Eighth/blob/master/cp7/CSS%E6%9E%84%E9%80%A0%E5%9D%97.md)
 8. [第八章 操作样式表](https://github.com/nafnix/H5-C3-VQG-Eighth/blob/master/cp8/%E6%93%8D%E4%BD%9C%E6%A0%B7%E5%BC%8F%E8%A1%A8.md)
 9. [第九章 定义选择器](https://github.com/nafnix/H5-C3-VQG-Eighth/blob/master/cp9/%E5%AE%9A%E4%B9%89%E9%80%89%E6%8B%A9%E5%99%A8.md)
+10. [第十章 为文本添加样式](./cp10/为文本添加样式.md)
